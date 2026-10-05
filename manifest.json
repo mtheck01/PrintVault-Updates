@@ -1,7 +1,7 @@
 {
-    "version":  "9.0.69",
-    "packageUrl":  "https://github.com/mtheck01/PrintVault-Updates/releases/download/v9.0.69/PrintVault_3MF_v9.0.69_PATCH.zip",
-    "sha256":  "2F423A46A1FE0C0BEC6F4892C533F63DFD7467C37711FE302D06E1E4527F7AE9",
-    "installerRelativePath":  "PrintVault_3MF_v9.0.69_PATCH/dist/installer/PrintVault_3MF_v9.0.69_Setup.exe",
+    "version":  "9.0.70",
+    "packageUrl":  "https://github.com/mtheck01/PrintVault-Updates/releases/download/v9.0.70/PrintVault_3MF_v9.0.70_PATCH.zip",
+    "sha256":  "6CD7BD8271192FE2F45406669BAE013843098639DD07B564AE4223753EF1EEF5",
+    "installerRelativePath":  "PrintVault_3MF_v9.0.70_PATCH/dist/installer/PrintVault_3MF_v9.0.70_Setup.exe",
     "installerArguments":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
 }
